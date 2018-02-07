@@ -1,0 +1,7 @@
+surya
+Connected to Redis
+rest_discount = 10
+MULTI got 3 replies
+Reply 0: 12
+Reply 1: a member,member 8,member 9,member 7,member 4,member 5,another member,member 6,member 1,member 3,member 10,member 2
+Reply 2: 2

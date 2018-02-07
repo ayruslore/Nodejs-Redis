@@ -1,7 +1,7 @@
 console.log("surya");
 
 var redis = require('redis'), set_size = 10;
-var client = redis.createClient(6379, '0.0.0.0', {no_ready_check: true});
+var client = redis.createClient();
 //client.auth('foobared', function (err) {
  //   if (err) throw err;
 //});
